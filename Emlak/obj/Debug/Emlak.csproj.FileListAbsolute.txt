@@ -1,0 +1,11 @@
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.AssemblyReference.cache
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.Form1.resources
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\Emlak\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\Beyza\source\repos\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\Beyza\source\repos\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.kayitOl.resources
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.exe
+C:\Users\Beyza\source\repos\Emlak\Emlak\obj\Debug\Emlak.pdb
